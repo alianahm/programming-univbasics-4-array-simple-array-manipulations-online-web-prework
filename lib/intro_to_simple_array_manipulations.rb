@@ -5,7 +5,6 @@ def using_push(array) do
 end
 
 def using_unshift(array) do
-  colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-  next_color = "purple"
+  
   next_color.unshift
 end
