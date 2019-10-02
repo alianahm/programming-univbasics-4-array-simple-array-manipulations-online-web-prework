@@ -11,5 +11,6 @@ def using_unshift(array) do
 end
 
 def using_pop(array) do 
-  
-  
+  dog_names = ["bella", "kona", "misty", "mochi", "fergie", "lulu"]
+  dog_names.pop 
+end
