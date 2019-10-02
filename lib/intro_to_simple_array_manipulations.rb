@@ -10,4 +10,5 @@ def using_unshift(array) do
   next_name.unshift
 end
 
-def 
+def using_pop(array) do 
+  
