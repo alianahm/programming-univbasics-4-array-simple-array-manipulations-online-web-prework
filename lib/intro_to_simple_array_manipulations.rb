@@ -5,6 +5,7 @@ def using_push(array) do
 end
 
 def using_unshift(array) do
-  
-  next_color.unshift
+   dog_names = ["bella", "kona", "misty", "mochi", "fergie", "lulu"]
+  next_name = "meme"
+  next_name.unshift
 end
